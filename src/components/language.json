@@ -1,0 +1,12 @@
+{
+    "bn": { "name": "Bengali" },
+    "en": { "name": "English" },
+    "hi": { "name": "Hindi" },
+    "kn": { "name": "Kannada" },
+    "ml": { "name": "Malayalam" },
+    "mr": { "name": "Marathi (Marāṭhī)" },
+    "sa": { "name": "Sanskrit (Saṁskṛta)" },
+    "ta": { "name": "Tamil" },
+    "te": { "name": "Telugu" }
+    
+}
